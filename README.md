@@ -8,7 +8,7 @@ This project was developed to explore alternative board game mechanics while bui
 
 ## Screenshot
 
-images/gameplay.png
+![Gameplay Screenshot](images/gameplay.png)
 
 *Example gameplay showing column highlighting, colour selection, active player highlighting, and the custom shared-colour gameplay system.*
 
