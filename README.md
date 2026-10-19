@@ -26,7 +26,7 @@ A playable Java build is available from the **Releases** section of this reposit
 After downloading the latest release:
 
 ```bash
-java -jar Connect4Variant.jar
+java -jar Connect4++.jar
 ```
 
 Alternatively, on most systems the `.jar` file can be launched by double-clicking it.
