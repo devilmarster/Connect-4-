@@ -13,7 +13,25 @@ This project was developed to explore alternative board game mechanics while bui
 *Example gameplay showing column highlighting, colour selection, active player highlighting, and the custom shared-colour gameplay system.*
 
 ---
+## Download
 
+A playable Java build is available from the **Releases** section of this repository.
+
+### Requirements
+
+- Java Runtime Environment (JRE) 8 or newer
+
+### Running the Game
+
+After downloading the latest release:
+
+```bash
+java -jar Connect4Variant.jar
+```
+
+Alternatively, on most systems the `.jar` file can be launched by double-clicking it.
+
+---
 ## Features
 
 - Custom Connect 4 gameplay variant
